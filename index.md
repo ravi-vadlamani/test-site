@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages, Ravi
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/ravi-vadlamani/ravi-vadlamani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey there! Thanks for stopping by.
+  
+  My name is **Ravi**{: style="color: #3385D9;"}, _an undergraduate biology student_ who is passionate about microbiology and its applications to make the world a better place. I'm currently interested in research opportunities to expand horizons and find a niche.
+  
+  My exceptional laboratory performance combined with a statistical analysis skill set are ideal for a company where a result oriented workflow is desirable. With experience in research & development as well as application in the industry, my workflow is quite adaptable and in-fact I enjoy a challenge that requires both technical and hands-on approach to find a solution.
+  <br/><br/>
+  Things I'm good at:
+  -  Lab & Field skills: <mark>UV/Vis Spectrophotometry</mark> <mark>PCR & Gel Electrophoresis</mark> <mark>Gas Chromatography (GC)</mark>  <mark>Cell Cultures</mark> <mark>Ecological Sampling</mark> <mark>Biomonitoring aquatic and terrestrial habitats</mark>
+  -  Programming: <mark>C</mark> <mark>C++</mark> <mark>Python</mark>
+  
+  Things I'm learning:
+  - <mark>Statistical analysis in R</mark> <mark>LaTeX</mark> <mark>MATLAB modelling</mark>
+  <br/><br/>
+  
+  Fields of interest: 
+  -  Application of Microbiology
+  -  Viruses and Vaccines
+  -  Environmental Biology and Sustainability
+  -  Xenobiology
+  
+***
 
-### Markdown
+#Work Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Undergraduate Research Assistant at Ryerson University:
+    Ecotoxicology labs etc etc etc etc
+    
+    MIC:
+    - asdf
+    - asdfg
+    IIC:
+    - UUU
+    - CVY
+    
+    Worked under supervision of
+##R&D at Siltech
+kjhduhgkljdfkslkkgjdfghdughfhiufhfuhfisfjsfajj
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ravi-vadlamani/ravi-vadlamani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Personal
+[What I do when I'm not sciencing](./another-page.html)
