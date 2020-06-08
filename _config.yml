@@ -3,6 +3,7 @@ description: Undergraduate Research Assistant at Ryerson University
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+favicon: images/favicon.ico
 
 github:
   repository_url: https://www.linkedin.com/in/ravi-vadlamani/
