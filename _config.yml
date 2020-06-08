@@ -1,5 +1,11 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Ravi Vadlamani
+description: Personal Website
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+github:
+  repository_url: https://www.linkedin.com/in/ravi-vadlamani/
+#  zip_url: add resume link
+  tar_url: https://github.com/ravi-vadlamani
+  

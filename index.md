@@ -2,21 +2,20 @@
 layout: default
 ---
 
-#About
+# About
 
 Hey there! Thanks for stopping by.
   
-  My name is **Ravi**{: style="color: #3385D9;"}, _an undergraduate biology student_ who is passionate about microbiology and its applications to make the world a better place. I'm currently interested in research opportunities to expand horizons and find a niche.
+My name is **Ravi**{: style="color: #3385D9;"}, _an undergraduate biology student_ who is passionate about microbiology and its applications to make the world a better place. I'm currently interested in research opportunities to expand horizons and find a niche.
   
-  My exceptional laboratory performance combined with a statistical analysis skill set are ideal for a company where a result oriented workflow is desirable. With experience in research & development as well as application in the industry, my workflow is quite adaptable and in-fact I enjoy a challenge that requires both technical and hands-on approach to find a solution.
-  <br/><br/>
-  Things I'm good at:
-  -  Lab & Field skills: <mark>UV/Vis Spectrophotometry</mark> <mark>PCR & Gel Electrophoresis</mark> <mark>Gas Chromatography (GC)</mark>  <mark>Cell Cultures</mark> <mark>Ecological Sampling</mark> <mark>Biomonitoring aquatic and terrestrial habitats</mark>
-  -  Programming: <mark>C</mark> <mark>C++</mark> <mark>Python</mark>
+My exceptional laboratory performance combined with a statistical analysis skill set are ideal for a company where a result oriented workflow is desirable. With experience in research & development as well as application in the industry, my workflow is quite adaptable and in-fact I enjoy a challenge that requires both technical and hands-on approach to find a solution.
+
+Things I'm good at:
+  -  Lab & Field skills: `UV/Vis Spectrophotometry` `PCR & Gel Electrophoresis` `Gas Chromatography (GC)`  `Cell Cultures` `Ecological Sampling` `Biomonitoring aquatic and terrestrial habitats`
+  -  Programming: `C` `C++` `Python`
   
   Things I'm learning:
-  - <mark>Statistical analysis in R</mark> <mark>LaTeX</mark> <mark>MATLAB modelling</mark>
-  <br/><br/>
+  - `Statistical analysis in R` `LaTeX` `MATLAB modelling`
   
   Fields of interest: 
   -  Application of Microbiology
@@ -26,23 +25,24 @@ Hey there! Thanks for stopping by.
   
 ***
 
-#Work Experience
+# Work Experience
 
-##Undergraduate Research Assistant at Ryerson University:
-    Ecotoxicology labs etc etc etc etc
+## Undergraduate Research Assistant at Ryerson University:
+Ecotoxicology labs etc etc etc etc
     
-    MIC:
+- MIC:
     - asdf
     - asdfg
-    IIC:
+- IIC:
     - UUU
     - CVY
-    
-    Worked under supervision of
-##R&D at Siltech
+
+Worked under supervision of
+
+## R&D at Siltech
 kjhduhgkljdfkslkkgjdfghdughfhiufhfuhfisfjsfajj
 
 ***
 
-#Personal
+# Personal
 [What I do when I'm not sciencing](./another-page.html)
