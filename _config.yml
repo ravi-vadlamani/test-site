@@ -1,11 +1,11 @@
 title: Ravi Vadlamani
-description: Personal Website
+description: Undergraduate Research Assistant at Ryerson University
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
 
 github:
   repository_url: https://www.linkedin.com/in/ravi-vadlamani/
-#  zip_url: add resume link
+  zip_url: https://www.linkedin.com/in/ravi-vadlamani/
   tar_url: https://github.com/ravi-vadlamani
   
