@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About
+# Ravi Vadlamani
 
 Hey there! Thanks for stopping by.
   
