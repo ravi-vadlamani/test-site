@@ -4,7 +4,8 @@ layout: default
 
 # Ravi Vadlamani
 <!-- ![Portrait](images/profile.png){: width=150 style="float:left; padding:1px"} -->
-<img src="images/profile.png" alt="Portrait" width="234" height="350" padding=15px style="float:left">
+<!-- <img src="images/profile.png" alt="Portrait" width="234" height="350" style="float:left"> -->
+<img src="images/profile.png" alt="Portrait" max-width=20%; height=auto; padding=15px; style="float:left">
 
 Hey there! Thanks for stopping by.
   
