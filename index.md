@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Ravi Vadlamani
-![Portrait](images/profile.png){: height=350 style="float:left; padding:16px"}
+![Portrait](images/profile.png){: width=150 style="float:left; padding:1px"}
 
 Hey there! Thanks for stopping by.
   
