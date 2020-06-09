@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Ravi Vadlamani
+###### Ravi Vadlamani {: style="color: #FFFFFF;"}
 ![Portrait](images/profile.png){: width="280px" style="float:left; padding:15px" }
 
 Hey there! Thanks for stopping by.
