@@ -1,11 +1,9 @@
 ---
 layout: default
-<div style="text-align: justify">
 ---
-<div style="text-align: justify">
 
 ############ Ravi Vadlamani
-![Portrait](images/profile.png){: width="280px" style="float:left; padding:15px" }
+![Portrait](images/profile.png){: width="300px" style="float:left; padding:15px" }
 
 Hey there! Thanks for stopping by.
   
