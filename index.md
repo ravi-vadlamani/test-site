@@ -25,38 +25,37 @@ Fields of interest:
   -  Xenobiology
 
 ***
+
 # Work Experience
 
-## Undergraduate Research Assistant at [**Ryerson University**](https://www.ryerson.ca/): *Winter 2020*
+## Undergraduate Research Assistant at **Ryerson University**: *Winter 2020*
 As a part of the Ecotoxicology-Epidemiology Laboratory under the supervision of [*Dr. Lynda McCarthy*](https://www.ryerson.ca/minerscanary/)
 
 - *Pseudomonas putida*: ...
     - Minimum inhibitory concentration (MIC) assays
     - ...
-&NewLine;
 - *Legionella pneumophila*: ...
     - Contact time (CT) assays
     - ...
-&NewLine;
+
 - Skills gained:
     - Bacterial suspension turbidity vs. concentration using McFarland standard
     - Preparing and pouring specialized agar plate media
     - Biological Safety Certification
     - ...
 
-## Assistant Chemist and Assistant Process Engineering Intern at [**Siltech Corporation**](https://www.siltech.com/about-siltech/): *Summer 2013* + *Summer 2014*
+## Assistant Chemist and Assistant Process Engineering Intern at [*Siltech Corporation*](https://www.siltech.com/about-siltech/): *Summer 2013* + *Summer 2014*
 Projects spanning from R&D laboratory to assembly and maintenance on plant-side helped me understand the industrial process of idea-to-implementation at an earlier stage of my career
 
 - Research and Development:
     - Conducted experiments and submitted reports on a new method to optimize the manufacturing process of a specific MQ resin
     - Performed statistical analysis on a batch process to determine the slowest step and proposed a solution to decrease production time and costs
-&NewLine;
 - Plant maintenance and expansion:
     - Assisted in the start-up of a newly installed 8,000 gallon reactor vessel by performing various tasks such as: Creating a calibration profile of the reactor vessel; Start-up of the Hydraulic systems; Automation of the controls through Delta-V system
     - Helped develop forecasting reports for determining reactor capacity utilization and allocation of plant expenses per reactor
     - Created and consolidated databases for the new Preventative Maintenance (PM) system of the plant
     
-## Production Manager at [**Calmia Medical, Inc.**](http://www.calmiamedical.com/index.shtml): *Summer 2012*
+## Production Manager at [*Calmia Medical, Inc.*](http://www.calmiamedical.com/index.shtml): *Summer 2012*
 First laboratory experience involving production of medical grade equipment for pulmonary research
 
 - Manufactured glass capillary tubes with high tolerances to be used in Capillary Surfactometer for pulmonary research
@@ -65,12 +64,11 @@ First laboratory experience involving production of medical grade equipment for 
 - Troubleshooting the components of the process to ensure continuous production
 
 ***
+
 # Education
 ### Ryerson University
 Bachelor of Science (BSc) Biology: 2017 - 2021
-&NewLine;
 `"Ryerson's Biology program dives into the study of living organisms, with the intent of unlocking the mysteries of our planet."`
-&NewLine;
 Key courses:
 - Applied Microbiology
 - Disease Ecology
@@ -78,9 +76,9 @@ Key courses:
 - Ecotoxicology
 - Biometry
 - Medical Microbiology
-&NewLine;
 Lab Research in the field of ecotoxicology and epidemiology
 
 ***
-# A little more about me
-[What I do when I'm not science-ing](./another-page.html)
+
+# More about me
+[What I do when I'm not sciencing](./another-page.html)
